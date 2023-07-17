@@ -10,7 +10,7 @@ let chooseBtn = document.getElementById('choose'),
 
 
 function hover(){
-    heading.textContent='Действительно все!'
+    heading.textContent='Все готово!'
 }
 
 chooseBtn.addEventListener('mouseenter', hover);
